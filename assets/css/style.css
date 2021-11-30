@@ -1,0 +1,15 @@
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.camplist {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
